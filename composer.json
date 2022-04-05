@@ -1,0 +1,16 @@
+{
+    "name": "dahua/qiniu-sdk",
+    "autoload": {
+        "psr-4": {
+            "Dahua\\QiniuSdk\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "wanghua",
+            "email": "15645067945@163.com"
+        }
+    ],
+    "require": {}
+}
