@@ -12,5 +12,7 @@
             "email": "15645067945@163.com"
         }
     ],
+    "homepage": "http://developer.qiniu.com/",
+    "license": "MIT",
     "require": {}
 }
